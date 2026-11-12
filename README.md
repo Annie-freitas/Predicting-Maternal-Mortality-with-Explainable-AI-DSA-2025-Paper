@@ -26,7 +26,6 @@ The documented preprocessing workflow includes:
 - Encoding categorical variables.
 - Addressing class imbalance.
 
-*The dataset's original source, sample size, precise outcome definition and specific preprocessing procedures should be documented from the notebook before this section is considered final.*
 
 ## Machine learning methodology
 
